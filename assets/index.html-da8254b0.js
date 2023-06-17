@@ -1,0 +1,1 @@
+import{_ as t,p as a,q as o,R as e,t as c}from"./framework-da4c7003.js";const n={},r=e("h1",{id:"pyxio",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#pyxio","aria-hidden":"true"},"#"),c(" PYXIO")],-1),s=[r];function _(d,i){return a(),o("div",null,s)}const l=t(n,[["render",_],["__file","index.html.vue"]]);export{l as default};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-fb3d8fe4","path":"/id/17/","title":"GawrGura","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"by pixiv","slug":"by-pixiv","link":"#by-pixiv","children":[]}],"git":{},"filePathRelative":"id/17/README.md"}');export{e as data};

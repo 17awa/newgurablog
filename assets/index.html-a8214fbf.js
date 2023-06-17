@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-14b8d7f9","path":"/id/q/","title":"一些问题","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"平台问题","slug":"平台问题","link":"#平台问题","children":[]}],"git":{},"filePathRelative":"id/q/README.md"}');export{e as data};

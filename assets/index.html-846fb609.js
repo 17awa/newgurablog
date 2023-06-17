@@ -1,0 +1,1 @@
+const i=JSON.parse('{"key":"v-f81e76bc","path":"/id/xiazai/","title":"下载Gura","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"itch.io","slug":"itch-io","link":"#itch-io","children":[]},{"level":2,"title":"直接下载","slug":"直接下载","link":"#直接下载","children":[]}],"git":{},"filePathRelative":"id/xiazai/README.md"}');export{i as data};

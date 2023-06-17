@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-66180bba","path":"/id/renpy/2/","title":"renpy打包游戏","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"打包pc,macos","slug":"打包pc-macos","link":"#打包pc-macos","children":[]},{"level":2,"title":"打包安卓apk","slug":"打包安卓apk","link":"#打包安卓apk","children":[]}],"git":{},"filePathRelative":"id/renpy/2/README.md"}');export{e as data};
